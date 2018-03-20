@@ -18,6 +18,8 @@ class helper{
     }
 
 
+
+
     public static function decOffset($test = false)
     {
         $fp = fopen("offset.txt","r");
